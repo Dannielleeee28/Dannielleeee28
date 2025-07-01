@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dannielleeee28" target="blank"><img src="https://img.shields.io/twitter/follow/dannielleeee28?logo=twitter&style=for-the-badge" alt="dannielleeee28" /></a> </p>
 
-- 🌱 I’m currently building my [Portfolio V2](https://github.com/Dannielleeee28?tab=repositories)
-
-- 📫 Reach me at [Google Mail](officialdannielle@gmail.com)
+- 🌱 I’m currently building my [Portfolio V2](https://dannielleeee28.github.io/portfolio-v2/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dannielleeee28.github.io/portfolio-v2/)
 
